@@ -1,15 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+a+software+engineer.;I+build+things+that+scale.;Java+at+the+core.;Systems+at+the+edge." alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sangaibisi&color=6366f1&style=flat-square&label=profile+views" />
-</p>
-
----
-
-<br/>
-
 > 🧠 *"Life and programming are full of contradictions."*
 
 <br/>
