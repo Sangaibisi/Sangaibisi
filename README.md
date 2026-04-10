@@ -6,8 +6,6 @@ I design and build systems that **quietly do their job** — even when everythin
 
 Backend engineer by nature. Full-stack by necessity. AI tooling by curiosity.
 
-<br/>
-
 ---
 
 ## 🔭 What I'm Working On
