@@ -29,11 +29,7 @@ I write about backend architecture, developer tooling, and things I wish I had k
 - 🐙 **GitHub** — you're here!
 - ✉️ Ping me via GitHub for anything interesting
 
----
-
 <div align="center">
-
-*Open to interesting problems at the intersection of **backend reliability** and **AI tooling**.*
 
 ⚡ Powered by curiosity and too much coffee
 
