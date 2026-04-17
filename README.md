@@ -1,9 +1,4 @@
-<div align="center">
-
 ### 🧠 *"Life and programming are full of contradictions."*
-
-
-</div>
 
 I design and build systems that **quietly do their job** — even when everything else is falling apart.
 
