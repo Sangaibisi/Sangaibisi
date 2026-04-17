@@ -1,5 +1,3 @@
-### 🧠 *"Life and programming are full of contradictions."*
-
 I design and build systems that **quietly do their job** — even when everything else is falling apart.
 
 Backend engineer by nature. Full-stack by necessity. AI tooling by curiosity.
